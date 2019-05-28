@@ -1,2 +1,7 @@
 # Delta-Search-Bot
-This bot is made using python and webscrapping.
+This bot is made using python on Telegram.
+This is a very creative and futuristic way which might lead to future technologies.
+This is a bot which uses web scrapping and can give you quotes, jokes and searching
+prices of phones and different models of the same phone.
+
+The source code is reserved don't use this code without forking it.
