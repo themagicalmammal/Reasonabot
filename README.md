@@ -5,3 +5,9 @@ This is a bot which uses web scrapping and can give you quotes, jokes and search
 prices of phones and different models of the same phone.
 
 The source code is reserved don't use this code without forking it.
+
+## Permissions
+Permissions before copying, modifying or deploying are required.
+
+## License
+This is under GNU General Public License v3.0.
