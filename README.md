@@ -15,3 +15,8 @@ Permissions before copying, modifying or deploying are required.
 
 ### This is under GNUGPL v3.0.
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/LICENSE)
+
+## Installation
+
+1.	Python latest – python 3.7.3
+2.	Jetbrains Pycharm(IDE) – v2019.1
