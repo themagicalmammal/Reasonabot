@@ -28,3 +28,8 @@ pip install --proxy http://user:password@proxyserver:port Django
 ## Trick to use runserver in a different port
 
 python manage.py runserver ip:port
+
+## Python Dependencies
+
+Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt)
+**pip install requirements.txt**
