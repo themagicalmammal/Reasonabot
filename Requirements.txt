@@ -1,0 +1,4 @@
+telebot
+telepot
+beautiful soup
+selenium
