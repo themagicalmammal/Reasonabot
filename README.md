@@ -31,5 +31,6 @@ python manage.py runserver ip:port
 
 ## Python Dependencies
 
-Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt)
+Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt
+
 **pip install requirements.txt**
