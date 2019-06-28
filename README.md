@@ -7,6 +7,10 @@ prices of phones and different models of the same phone.
 
 The source code is reserved don't use this code without forking it.
 
+## Deploy to Heroku
+
+You can deploy this app yourself to Heroku to play with.
+
 ## Permissions
 
 Permissions before copying, modifying or deploying are required.
