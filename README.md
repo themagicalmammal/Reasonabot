@@ -10,4 +10,5 @@ The source code is reserved don't use this code without forking it.
 Permissions before copying, modifying or deploying are required.
 
 ## License
-This is under GNU General Public License v3.0.
+# This is under GNU General Public License v3.0.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
