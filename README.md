@@ -13,5 +13,5 @@ Permissions before copying, modifying or deploying are required.
 
 ## License
 
-### This is under GNU General Public License v3.0.
+### This is under GNUGPL v3.0.
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/LICENSE)
