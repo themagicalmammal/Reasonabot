@@ -20,3 +20,11 @@ Permissions before copying, modifying or deploying are required.
 
 1.	Python latest – python 3.7.3
 2.	Jetbrains Pycharm(IDE) – v2019.1
+
+## Trick to install Django in proxy based systems
+
+pip install --proxy http://user:password@proxyserver:port Django
+
+## Trick to use runserver in a different port
+
+python manage.py runserver ip:port
