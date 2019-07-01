@@ -41,10 +41,13 @@ Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/bl
 
 ## Screenshots
 
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120515.jpg) | ![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120522.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120527.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120533.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120537.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120541.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120545.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120549.jpg)
+<p float="left">
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120515.jpg" width="250" />
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120522.jpg" width="250" /> 
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120527.jpg" width="250" />
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120533.jpg" width="250" />
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120537.jpg" width="250" />
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120541.jpg" width="250" />
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120545.jpg" width="250" />
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120549.jpg" width="250" />
+</p>
