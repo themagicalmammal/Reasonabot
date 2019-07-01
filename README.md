@@ -7,10 +7,28 @@ prices of phones and different models of the same phone.
 
 The source code is reserved don't use this code without forking it.
 
+# Info
+
+<p float="centre">
+  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-131449.jpg" width="350" />
+<p>
+  
 ## Deploy to Heroku
 
-You can deploy this app yourself to Heroku to play with.
+You can deploy this app yourself to Heroku to play with and lookup the info easy right!
 
+## Commands
+  /start
+  /howtouse
+  /searchphones
+  /devinfo
+  /botinfo
+  /technologies
+  /tellmeajoke
+  /quotes
+ Note - Using this commands you can navigate the bot but if you dont want this you can directly use it the bot will instruct you 
+ wisely.
+ 
 ## Permissions
 
 Permissions before copying, modifying or deploying are required.
