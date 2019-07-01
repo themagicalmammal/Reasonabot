@@ -38,3 +38,14 @@ python manage.py runserver ip:port
 Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt)
 
 **pip install requirements.txt**
+
+## Screenshots
+
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120515.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120522.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120527.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120533.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120537.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120541.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120545.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120549.jpg)
