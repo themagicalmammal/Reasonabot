@@ -41,8 +41,7 @@ Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/bl
 
 ## Screenshots
 
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120515.jpg)
-![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120522.jpg)
+![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120515.jpg) | ![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120522.jpg)
 ![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120527.jpg)
 ![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120533.jpg)
 ![alt text](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120537.jpg)
