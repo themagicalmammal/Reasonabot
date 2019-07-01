@@ -18,16 +18,16 @@ The source code is reserved don't use this code without forking it.
 You can deploy this app yourself to Heroku to play with and lookup the info easy right!
 
 ## Commands
-  /start
-  /howtouse
-  /searchphones
-  /devinfo
-  /botinfo
-  /technologies
-  /tellmeajoke
-  /quotes
+  /start <br>
+  /howtouse <br>
+  /searchphones <br>
+  /devinfo <br> 
+  /botinfo <br>
+  /technologies <br>
+  /tellmeajoke <br>
+  /quotes <br>
  Note - Using this commands you can navigate the bot but if you dont want this you can directly use it the bot will instruct you 
- wisely.
+ wisely. <br>
  
 ## Permissions
 
