@@ -7,6 +7,12 @@ prices of phones and different models of the same phone.
 
 The source code is reserved don't use this code without forking it.
 
+# How to Use
+1. Install the Requirements.txt then proceed with the program.
+2. After create a new bot in telegram and copy the token API.
+3. Then copy the token api to program and run it.
+4. Enjoy!!!
+
 # Info
 
 <p float="centre">
@@ -18,20 +24,22 @@ The source code is reserved don't use this code without forking it.
 You can deploy this app yourself to Heroku to play with and lookup the info easy right!
 
 ## Commands
-  /start <br>
-  /howtouse <br>
-  /searchphones <br>
-  /devinfo <br> 
-  /botinfo <br>
-  /technologies <br>
-  /tellmeajoke <br>
-  /quotes <br>
+```python
+  /start
+  /howtouse
+  /searchphones
+  /devinfo 
+  /botinfo
+  /technologies
+  /tellmeajoke
+  /quotes
+ ```
  Note - Using this commands you can navigate the bot but if you dont want this you can directly use it the bot will instruct you 
  wisely. <br>
  
 ## Permissions
-
-Permissions before copying, modifying or deploying are required.
+To use this **please fork it** to respect the developer. <br>
+**Title Engine modification would definitely break the code.**
 
 ## License
 
@@ -40,22 +48,12 @@ Permissions before copying, modifying or deploying are required.
 
 ## Installation
 
-1.	Python latest – python 3.7.3
-2.	Jetbrains Pycharm(IDE) – v2019.1
-
-## Trick to install Django in proxy based systems
-
-pip install --proxy http://user:password@proxyserver:port Django
-
-## Trick to use runserver in a different port
-
-python manage.py runserver ip:port
+1.	Python latest – python 3.8.1
+2.	Jetbrains Pycharm(IDE) – v2019.3.3
 
 ## Python Dependencies
 
-Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt)
-
-**pip install requirements.txt**
+**pip install [requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt)**
 
 ## Screenshots
 
@@ -69,3 +67,6 @@ Install the [Requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/bl
   <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120545.jpg" width="285" />
   <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120549.jpg" width="285" />
 </p>
+
+## Project Contributers
+### The project is owned by these two direct contributers [Dipan Nanda](https://github.com/DevilDipan) and [Ashish Shah](https://github.com/ash-R2D2)
