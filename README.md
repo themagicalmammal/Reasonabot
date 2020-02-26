@@ -1,4 +1,4 @@
-# Delta-Search-Bot
+# Delta Search Bot
 
 This bot is made using python on Telegram.
 This is a very creative and futuristic way which might lead to future technologies.
