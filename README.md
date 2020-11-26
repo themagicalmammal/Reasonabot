@@ -1,27 +1,20 @@
-# Delta Search Bot
+# ReasonaBot
+[![Python](https://camo.githubusercontent.com/1e61764d58b07bfcb596ec4ee836301e8a769bf0703fe79b23fd7964a4b6a61b/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f707974686f6e2d74656c656772616d2d626f742e737667)](https://www.python.org/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/DevilDipan/ReasonaBot/blob/master/LICENSE)<br />
+The name comes from the word reasonable. This does web scrapping and provides you with best prices for mobile devices and also can send you quotes & jokes.
 
-This bot is made using python on Telegram.
-This is a very creative and futuristic way which might lead to future technologies.
-This is a bot which uses web scrapping and can give you quotes, jokes and searching
-prices of phones and different models of the same phone.
+## Deployment
+**1. Install the Requirements.** <br />
+Install the [requirements.txt](https://raw.githubusercontent.com/themagicalmammal/WikiBot/master/requirements.txt) for the bot. <br />
+**2. Create an Telegram API token.** <br />
+Make a bot on telegram with [BotFather](https://telegram.me/BotFather), create a bot then import the API Key to main.py. <br />
+**3.** [![Heroku](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://signup.heroku.com/t/platform?c=7013A000000ib1xQAA&gclid=EAIaIQobChMI1e6tpZKb7QIVyTArCh0W3A0jEAAYASAAEgJ3pvD_BwE) <br />
+Deploy it on Heroku or use your PC. <br /> <br />
 
-The source code is reserved don't use this code without forking it.
-
-# How to Use
-1. Install the Requirements.txt then proceed with the program.
-2. After create a new bot in telegram and copy the token API.
-3. Then copy the token api to program and run it.
-4. Enjoy!!!
-
-# Info
-
+## Info
 <p float="centre">
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-131449.jpg" width="350" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-131449.jpg" width="350" />
 <p>
-  
-## Deploy to Heroku
-
-You can deploy this app yourself to Heroku to play with and lookup the info easy right!
 
 ## Commands
 ```python
@@ -34,39 +27,19 @@ You can deploy this app yourself to Heroku to play with and lookup the info easy
   /tellmeajoke
   /quotes
  ```
- Note - Using this commands you can navigate the bot but if you dont want this you can directly use it the bot will instruct you 
- wisely. <br>
  
-## Permissions
-To use this **please fork it** to respect the developer. <br>
-**Title Engine modification would definitely break the code.**
-
-## License
-
-### This is under GNU GPL v3.0 License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/LICENSE)
-
-## Installation
-
-1.	Python latest – python 3.8.1
-2.	Jetbrains Pycharm(IDE) – v2019.3.3
-
-## Python Dependencies
-
-**pip install [requirements.txt](https://github.com/DevilDipan/Delta-Search-Bot/blob/master/Requirements.txt)**
-
-## Screenshots
+## Examples
 
 <p float="left">
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120515.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120522.jpg" width="285" /> 
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120527.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120533.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120537.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120541.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120545.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/Delta-Search-Bot/blob/master/images/Screenshot_20190701-120549.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120515.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120522.jpg" width="285" /> 
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120527.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120533.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120537.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120541.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120545.jpg" width="285" />
+  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120549.jpg" width="285" />
 </p>
 
-## Project Contributers
-### The project is owned by these two direct contributers [Dipan Nanda](https://github.com/DevilDipan) and [Ashish Shah](https://github.com/ash-R2D2)
+## Credits
+### [Ashish Shah](https://github.com/ash-R2D2) - My partner in this project.
