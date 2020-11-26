@@ -13,7 +13,7 @@ Deploy it on Heroku or use your PC. <br /> <br />
 
 ## Info
 <p float="centre">
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-131449.jpg" width="350" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-131449.jpg" width="350" />
 <p>
 
 ## Commands
@@ -31,14 +31,14 @@ Deploy it on Heroku or use your PC. <br /> <br />
 ## Examples
 
 <p float="left">
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120515.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120522.jpg" width="285" /> 
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120527.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120533.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120537.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120541.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120545.jpg" width="285" />
-  <img src="https://github.com/DevilDipan/ReasonaBot/blob/master/images/Screenshot_20190701-120549.jpg" width="285" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120515.jpg" width="260" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120522.jpg" width="260" /> 
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120527.jpg" width="260" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120533.jpg" width="260" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120537.jpg" width="260" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120541.jpg" width="260" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120545.jpg" width="260" />
+  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-120549.jpg" width="260" />
 </p>
 
 ## Credits
