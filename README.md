@@ -12,9 +12,7 @@ Make a bot on telegram with [BotFather](https://telegram.me/BotFather), create a
 Deploy it on Heroku or use your PC. <br /> <br />
 
 ## Info
-<p float="centre">
-  <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/images/Screenshot_20190701-131449.jpg" width="350" />
-<p>
+<img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/References/info.png"/>
 
 ## Commands
 ```python
