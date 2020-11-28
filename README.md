@@ -4,18 +4,28 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/themagicalmammal/ReasonaBot/pulls)<br />
 The name comes from the word reasonable. This does web scrapping and provides you with best prices for mobile devices and also can send you quotes & jokes.
 
-## Deployment
-**1. Install the Requirements.** <br />
-Install the [requirements.txt](https://raw.githubusercontent.com/themagicalmammal/ReasonaBot/master/Requirements.txt) for the bot. <br />
-**2. Create an Telegram API token.** <br />
-Make a bot on telegram with [BotFather](https://telegram.me/BotFather), create a bot then import the API Key to main.py. <br />
-**3.** [![Heroku](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://signup.heroku.com/t/platform?c=7013A000000ib1xQAA&gclid=EAIaIQobChMI1e6tpZKb7QIVyTArCh0W3A0jEAAYASAAEgJ3pvD_BwE) <br />
-Deploy it on Heroku or use your PC. <br /> <br />
+## Index
+
+### 1. [Information](https://github.com/themagicalmammal/ReasonaBot#info)
+
+### 2. [Deploy](https://github.com/themagicalmammal/ReasonaBot#deployment)
+
+### 3. [Commands](https://github.com/themagicalmammal/ReasonaBot#bot-commands)
+
+### 4. [Images](https://github.com/themagicalmammal/ReasonaBot#examples)
 
 ## Info
 <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/References/info.png"/>
 
-## Commands
+## Deployment
+**1. Install the Requirements.** <br />
+Install the [requirements.txt](https://raw.githubusercontent.com/themagicalmammal/ReasonaBot/master/Requirements.txt) for the bot. <br />
+**2. Create an Telegram API token.** <br />
+Make a bot on telegram with [BotFather](https://telegram.me/BotFather), create a bot then import the API Key to bot.py. <br />
+**3.** [![Heroku](https://camo.githubusercontent.com/6979881d5a96b7b18a057083bb8aeb87ba35fc279452e29034c1e1c49ade0636/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667)](https://signup.heroku.com/t/platform?c=7013A000000ib1xQAA&gclid=EAIaIQobChMI1e6tpZKb7QIVyTArCh0W3A0jEAAYASAAEgJ3pvD_BwE) <br />
+Deploy it on Heroku or use your PC. <br /> <br />
+
+## Bot Commands
 ```python
   /start
   /howtouse
@@ -41,4 +51,4 @@ Deploy it on Heroku or use your PC. <br /> <br />
 </p>
 
 ## Credits
-### [Ashish Shah](https://github.com/ash-R2D2) - My partner in this project.
+### [Ashish Shah](https://github.com/ash-R2D2) - My Partner.
