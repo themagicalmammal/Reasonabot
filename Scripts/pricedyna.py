@@ -1,21 +1,20 @@
 import bs4
 import requests
 
-url = 'https://www.mysmartprice.com/mobile/oneplus-6t-msp14895'
+url = "https://www.mysmartprice.com/mobile/oneplus-6t-msp14895"
 
 page = requests.get(url)
-soup = bs4.BeautifulSoup(page.text , 'html.parser')
+soup = bs4.BeautifulSoup(page.text, "html.parser")
 
-
-containers = soup.findAll("div" , {"class" : "prc-tbl__row-wrpr"})
-cpu= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--cpu"})
-ram= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--ram"})
-storage= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--strge"})
-battery= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--bttry"})
-camera= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--cmra"})
-screensize= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--aspct"})
-sim= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--sim"})
-os= soup.findAll("li" , {"class" : "kyspc__item kyspc__item--os"})
+containers = soup.findAll("div", {"class": "prc-tbl__row-wrpr"})
+cpu = soup.findAll("li", {"class": "kyspc__item kyspc__item--cpu"})
+ram = soup.findAll("li", {"class": "kyspc__item kyspc__item--ram"})
+storage = soup.findAll("li", {"class": "kyspc__item kyspc__item--strge"})
+battery = soup.findAll("li", {"class": "kyspc__item kyspc__item--bttry"})
+camera = soup.findAll("li", {"class": "kyspc__item kyspc__item--cmra"})
+screensize = soup.findAll("li", {"class": "kyspc__item kyspc__item--aspct"})
+sim = soup.findAll("li", {"class": "kyspc__item kyspc__item--sim"})
+os = soup.findAll("li", {"class": "kyspc__item kyspc__item--os"})
 
 productdata = []
 for item in cpu:
@@ -51,13 +50,13 @@ for i in range(0, 8):
     else:
         s = s + ", " + productdata[i]
 
-d = ["","","",""]
+d = ["", "", "", ""]
 if j > 4:
     j = 4
-for i in range(0,j):
+for i in range(0, j):
 
     d[i] = stores[i] + prices[i]
 
 print(s)
-for i in range(0,j):
+for i in range(0, j):
     print(d[i])
