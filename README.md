@@ -15,9 +15,11 @@ The name comes from the word reasonable. This does web scrapping and provides yo
 ### 4. [Images](https://github.com/themagicalmammal/ReasonaBot#examples)
 
 ## Info
+
 <img src="https://github.com/themagicalmammal/ReasonaBot/blob/master/References/info.png"/>
 
 ## Deployment
+
 **1. Install the Requirements.** <br />
 Install the [requirements.txt](https://raw.githubusercontent.com/themagicalmammal/ReasonaBot/master/Requirements.txt) for the bot. <br />
 **2. Create an Telegram API token.** <br />
@@ -26,17 +28,18 @@ Make a bot on telegram with [BotFather](https://telegram.me/BotFather), create a
 Deploy it on Heroku or use your PC. <br /> <br />
 
 ## Bot Commands
+
 ```python
   /start
   /howtouse
   /searchphones
-  /devinfo 
+  /devinfo
   /botinfo
   /technologies
   /tellmeajoke
   /quotes
- ```
- 
+```
+
 ## Examples
 
 <p float="left">
@@ -51,4 +54,5 @@ Deploy it on Heroku or use your PC. <br /> <br />
 </p>
 
 ## Credits
+
 ### [Ashish Shah](https://github.com/ash-R2D2) - My Partner.
